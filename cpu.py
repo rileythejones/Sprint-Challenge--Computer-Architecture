@@ -1,5 +1,5 @@
 import sys
-
+""" CPU class """
 
 HLT = 0b00000001
 LDI = 0b10000010

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-"""Main."""
+"""Main Program"""
 
 import sys
 from cpu import *
